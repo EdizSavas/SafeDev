@@ -2,13 +2,13 @@
 
 ## Genel Bakış
 
-Ashborn, Türkiye'deki yazılım geliştiren Küçük ve Orta Ölçekli İşletmeler (KOBİ'ler) için özel olarak tasarlanmış, kullanımı kolay bir otomatik denetim platformudur. Amacımız, KOBİ'lerin yazılım projelerindeki potansiyel güvenlik açıklarını, kod kalitesi sorunlarını ve özellikle Türkiye Cumhuriyeti Kişisel Verilerin Korunması Kanunu (KVKK) uyumsuzluklarını hızlı ve etkin bir şekilde tespit etmelerini sağlamaktır.
+SafeDev, Türkiye'deki yazılım geliştiren Küçük ve Orta Ölçekli İşletmeler (KOBİ'ler) için özel olarak tasarlanmış, kullanımı kolay bir otomatik denetim platformudur. Amacımız, KOBİ'lerin yazılım projelerindeki potansiyel güvenlik açıklarını, kod kalitesi sorunlarını ve özellikle Türkiye Cumhuriyeti Kişisel Verilerin Korunması Kanunu (KVKK) uyumsuzluklarını hızlı ve etkin bir şekilde tespit etmelerini sağlamaktır.
 
-Küresel çözümlerin karmaşıklığı ve yüksek maliyetleri karşısında, Ashborn yerel pazarın ihtiyaçlarına odaklanarak, "kur ve kullan" mantığıyla çalışan, uygun maliyetli ve güvenilir bir denetim motoru sunar.
+Küresel çözümlerin karmaşıklığı ve yüksek maliyetleri karşısında, SafeDev yerel pazarın ihtiyaçlarına odaklanarak, "kur ve kullan" mantığıyla çalışan, uygun maliyetli ve güvenilir bir denetim motoru sunar.
 
 ## Temel Özellikler (MVP)
 
-Ashborn MVP (Minimum Viable Product), ilk aşamada aşağıdaki temel yetenekleri sunmaktadır:
+Ashborn(Prototip ismi) MVP (Minimum Viable Product), ilk aşamada aşağıdaki temel yetenekleri sunmaktadır:
 
 * **Statik Kod Analizi:** Yazılım kodundaki yaygın güvenlik zafiyetlerini (örn. SQL Injection, XSS, Path Traversal) ve potansiyel hataları otomatik olarak tespit eder.
 * **KVKK ve Hassas Veri Denetimi:** Kod tabanında, kişisel verilerin (TCKN, telefon numarası, e-posta, kredi kartı bilgileri vb.) uygunsuz kullanımını veya veri sızıntısı risklerini gösteren hassas bilgileri tarar.
