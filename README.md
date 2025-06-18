@@ -1,5 +1,7 @@
 # SafeDev: KOBİ Yazılım Güvenliği ve KVKK Denetim Platformu
 
+# Henüz geliştirme aşamasındaki bir prototiptir final ürünü değildir !!!
+
 ## Genel Bakış
 
 SafeDev, Türkiye'deki yazılım geliştiren Küçük ve Orta Ölçekli İşletmeler (KOBİ'ler) için özel olarak tasarlanmış, kullanımı kolay bir otomatik denetim platformudur. Amacımız, KOBİ'lerin yazılım projelerindeki potansiyel güvenlik açıklarını, kod kalitesi sorunlarını ve özellikle Türkiye Cumhuriyeti Kişisel Verilerin Korunması Kanunu (KVKK) uyumsuzluklarını hızlı ve etkin bir şekilde tespit etmelerini sağlamaktır.
