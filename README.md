@@ -21,29 +21,6 @@ Ashborn MVP (Minimum Viable Product), ilk aşamada aşağıdaki temel yetenekler
 * **Statik Analiz Motorları:** Semgrep, Flake8 (Python kod kalitesi için)
 * **Veri Tespiti:** Regex tabanlı özelleştirilmiş kurallar
 
-## Hızlı Başlangıç (Geliştiriciler İçin)
-
-Projenin yerel olarak nasıl kurulacağını ve çalıştırılacağını buradan öğrenin.
-
-1.  **Depoyu Klonlayın:**
-    ```bash
-    git clone [https://github.com/EdizSavas/Ashborn.git](https://github.com/EdizSavas/Ashborn.git) # Kendi kullanıcı adınızla güncelleyin!
-    cd Ashborn
-    ```
-2.  **Sanal Ortam Oluşturun ve Aktive Edin:**
-    ```bash
-    python -m venv ashborn_env
-    source ashborn_env/bin/activate  # Linux/macOS
-    # ashborn_env\Scripts\activate.bat # Windows
-    ```
-3.  **Bağımlılıkları Yükleyin:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  **Uygulamayı Çalıştırın:**
-    ```bash
-    python src/main.py
-    ```
 
 ## Gelecek Planları
 
@@ -59,8 +36,10 @@ Ashborn'u daha da geliştirmek ve KOBİ'lere daha kapsamlı çözümler sunmak i
 
 Sorularınız, geri bildirimleriniz veya potansiyel işbirlikleri için benimle iletişime geçmekten çekinmeyin:
 
-Ediz Savaş
-edizsavas00@gmail.com
+--Ediz Savaş--
+
+edizsavas00@gmail.com,
+
 www.linkedin.com/in/ediz-savaş-41a96b368
 
 ---
