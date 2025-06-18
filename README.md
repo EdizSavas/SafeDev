@@ -4,13 +4,13 @@
 
 ## Genel Bakış
 
-SafeDev, Türkiye'deki yazılım geliştiren Küçük ve Orta Ölçekli İşletmeler (KOBİ'ler) için özel olarak tasarlanmış, kullanımı kolay bir otomatik denetim platformudur. Amacımız, KOBİ'lerin yazılım projelerindeki potansiyel güvenlik açıklarını, kod kalitesi sorunlarını ve özellikle Türkiye Cumhuriyeti Kişisel Verilerin Korunması Kanunu (KVKK) uyumsuzluklarını hızlı ve etkin bir şekilde tespit etmelerini sağlamaktır.
+SafeDev, Türkiye'deki yazılım geliştiren Küçük ve Orta Ölçekli İşletmeler (KOBİ'ler) için özel olarak tasarlanmış, kullanımı kolay bir otomatik denetim platformudur. Amacım, KOBİ'lerin yazılım projelerindeki potansiyel güvenlik açıklarını, kod kalitesi sorunlarını ve özellikle Türkiye Cumhuriyeti Kişisel Verilerin Korunması Kanunu (KVKK) uyumsuzluklarını hızlı ve etkin bir şekilde tespit etmelerini sağlamaktır.
 
 Küresel çözümlerin karmaşıklığı ve yüksek maliyetleri karşısında, SafeDev yerel pazarın ihtiyaçlarına odaklanarak, "kur ve kullan" mantığıyla çalışan, uygun maliyetli ve güvenilir bir denetim motoru sunar.
 
 ## Temel Özellikler (MVP)
 
-Ashborn(Prototip ismi) MVP (Minimum Viable Product), ilk aşamada aşağıdaki temel yetenekleri sunmaktadır:
+Ashborn(Prototip İsmi) MVP (Minimum Viable Product), ilk aşamada aşağıdaki temel yetenekleri sunmaktadır:
 
 * **Statik Kod Analizi:** Yazılım kodundaki yaygın güvenlik zafiyetlerini (örn. SQL Injection, XSS, Path Traversal) ve potansiyel hataları otomatik olarak tespit eder.
 * **KVKK ve Hassas Veri Denetimi:** Kod tabanında, kişisel verilerin (TCKN, telefon numarası, e-posta, kredi kartı bilgileri vb.) uygunsuz kullanımını veya veri sızıntısı risklerini gösteren hassas bilgileri tarar.
@@ -26,7 +26,7 @@ Ashborn(Prototip ismi) MVP (Minimum Viable Product), ilk aşamada aşağıdaki t
 
 ## Gelecek Planları
 
-Ashborn'u daha da geliştirmek ve KOBİ'lere daha kapsamlı çözümler sunmak için aşağıdaki özellikler üzerinde çalışmayı planlıyoruz:
+Ashborn'u daha da geliştirmek ve KOBİ'lere daha kapsamlı çözümler sunmak için aşağıdaki özellikler üzerinde çalışmayı planlıyorum:
 
 * Çeşitli programlama dilleri için destek
 * Otomatik test çalıştırma ve raporlama entegrasyonu
